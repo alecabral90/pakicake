@@ -1,3 +1,3 @@
-# RepoProyecto
-Paki Cake, CVAMOS A PUSHEAR Y PULLEAR
-Se termina animaciones
+# BOOTSTRAT
+Paki Cake, CVAMOS A PUSHEAR LO QUE SE TRABAJO INDEX Y PAGE DESAYUNOS
+
